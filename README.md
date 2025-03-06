@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zsy-arch
 - 👀 I’m interested in Security / Binary Security / CTF .
-- 🌱 I’m currently learning Reverse Engineering / Crypto / Datastructure & Algorithm .
+- 🌱 I’m currently learning Pwn / Fuzzing / OS Kernel .
 - 💞️ I’m looking to collaborate on CTF.
 
 <!---
